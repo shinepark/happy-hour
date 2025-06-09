@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Castas Rum Bar",
+    "neighborhood": "Foggy Bottom",
+    "happy_hour_days": "Mon-Fri",
+    "happy_hour_times": "5:00 PM - 7:00 PM",
+    "rating": 4.5,
+    "offers": "$5 beer, $10 mojitos & frozens, $40 pitchers"
+  },
+  {
+    "name": "Georgetown Piano Bar",
+    "neighborhood": "Georgetown",
+    "happy_hour_days": "Wed-Sun",
+    "happy_hour_times": "5:00 PM - 7:00 PM",
+    "rating": 4.2,
+    "offers": "Half price appetizers, $5 draft beer"
+  },
+  {
+    "name": "Bar Chinois",
+    "neighborhood": "Chinatown",
+    "happy_hour_days": "Mon-Sun",
+    "happy_hour_times": "5:00 PM - 7:00 PM",
+    "rating": 4.3,
+    "offers": "$1 dumplings, discounted cocktails"
+  },
+  {
+    "name": "Silver Diner",
+    "neighborhood": "Navy Yard",
+    "happy_hour_days": "Mon-Sun",
+    "happy_hour_times": "3:00 PM - 9:00 PM",
+    "rating": 4.7,
+    "offers": "$4 beers, , $7 wines, $8 cocktails"
+  }
+]
